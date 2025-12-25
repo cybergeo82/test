@@ -1,4 +1,4 @@
-<svg width="1280" height="480" viewBox="0 0 1280 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1280 480" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
 <g clip-path="url(#clip0_2891_375)">
 <rect width="1280" height="480" rx="24" fill="#0D1117"/>
 <line x1="78.209" y1="-2.18557e-08" x2="78.209" y2="979.125" stroke="#262D54" stroke-opacity="0.26"/>
@@ -45,7 +45,6 @@
 <feGaussianBlur stdDeviation="40" result="effect1_foregroundBlur_2891_375"/>
 </filter>
 <clipPath id="clip0_2891_375">
-<rect width="1280" height="480" fill="white"/>
 </clipPath>
 </defs>
 </svg>
