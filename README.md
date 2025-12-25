@@ -1,3 +1,5 @@
+<br><br>
+
 <p align="center">
   <img src="https://nextgis.com/img/nextgis_x-logo.png" alt="NextGIS — All-in-one GIS platform" style="margin-top: 100px" />
 </p>
@@ -61,6 +63,9 @@
 📧 [**info@nextgis.com**](mailto:info@nextgis.com)  
 📱 **Telegram:** [@nextgis_community](https://t.me/nextgis_community)  
 💬 **Forum:** [community.nextgis.com](https://community.nextgis.com/)
+
+<br><br>
+
 
 <p align="center" style="margin-top: 60px">
   <i>Open source geospatial solutions</i>
