@@ -68,7 +68,5 @@
 
 
 <p align="center" style="margin-top: 60px">
-  <i>Open source geospatial solutions</i>
-  <br>
   <a href="https://nextgis.com">nextgis.com</a>
 </p>
