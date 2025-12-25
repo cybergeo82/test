@@ -1,3 +1,4 @@
+<br><br>
 <p align="center">
   <img src="https://nextgis.com/img/nextgis_x-logo.png" alt="NextGIS — All-in-one GIS platform" style="margin-top: 100px"/>
 </p>
