@@ -14,6 +14,15 @@
 
 <br><br>
 
+<div align="center">
+  <img 
+    src="https://github.com/cybergeo82/test/raw/main/banner.svg" 
+    alt="NextGIS Banner" 
+    width="100%" 
+    style="max-width: 1280px;"
+  >
+</div>
+
 
 ## What We Do
 
