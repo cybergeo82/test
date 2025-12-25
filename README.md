@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://nextgis.com/img/nextgis_x-logo.png" alt="NextGIS — All-in-one GIS platform" style="margin-top: 40px"/>
+  <img src="https://nextgis.com/img/nextgis_x-logo.png" alt="NextGIS — All-in-one GIS platform" style="margin-top: 100px"/>
 </p>
 
 <p align="center">
   <b>All-in-one GIS platform for maps and geodata</b><br>
-  Open source
+
 </p>
 
 <p align="center">
