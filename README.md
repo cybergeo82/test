@@ -61,6 +61,8 @@
 📱 **Telegram:** [@nextgis_community](https://t.me/nextgis_community)  
 💬 **Forum:** [community.nextgis.com](https://community.nextgis.com/)
 
+<br><br>
+
 <p align="center" style="margin-top: 60px">
   <i>Open source geospatial solutions</i>
   <br>
