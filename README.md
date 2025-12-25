@@ -61,7 +61,7 @@
 ## Contact us
 
 📧 [**info@nextgis.com**](mailto:info@nextgis.com)  
-📱 **Telegram:** [@nextgis_community](https://t.me/nextgis_community)  
+📱 **Telegram:** [@nextgis_talks](https://t.me/nextgis_talks)  
 💬 **Forum:** [community.nextgis.com](https://community.nextgis.com/)
 
 <br><br>
