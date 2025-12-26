@@ -46,7 +46,7 @@
 
 |Project                                                        |Description                                                     |Language/License   |Popularity|
 |---------------------------------------------------------------|----------------------------------------------------------------|-------------------|----------|
-|[nextgisweb](https://github.com/nextgis/nextgisweb)            |Server-side Web GIS framework                                   |TypeScript, GPL-3.0|<img src="https://img.shields.io/github/stars/nextgis/nextgisweb?style=social" alt="GitHub stars">|
+|[nextgisweb](https://github.com/nextgis/nextgisweb)            |Server-side Web GIS framework                                   |TypeScript, GPL-3.0|<picture><img src="https://img.shields.io/github/stars/nextgis/nextgisweb?style=social" alt="GitHub stars"></picture>|
 |[quickmapservices](https://github.com/nextgis/quickmapservices)|QGIS plugin: find and add map services to a project in one click|Python, GPL-2.0    |<img src="https://img.shields.io/github/stars/nextgis/quickmapservices?style=social" alt="GitHub stars">|
 |[android_gisapp](https://github.com/nextgis/android_gisapp)    |GIS application for Android                                     |Java, GPL-3.0      |<img src="https://img.shields.io/github/stars/nextgis/android_gisapp?style=social" alt="GitHub stars">|
 |[qgis_molusce](https://github.com/nextgis/qgis_molusce)        |QGIS plugin: modules for Land Use Change Simulations            |Python, GPL-2.0    |<img src="https://img.shields.io/github/stars/nextgis/qgis_molusce?style=social" alt="GitHub stars">|
