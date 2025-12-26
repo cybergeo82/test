@@ -1,12 +1,11 @@
 <br><br>
 
 <p align="center">
-  <img src="https://nextgis.com/img/nextgis_x-logo.png" alt="NextGIS — All-in-one GIS platform"" />
+  <img src="https://raw.githubusercontent.com/nextgis/.github/main/profile/assets/nextgis-logo.png" alt="NextGIS — All-in-one GIS platform" />
 </p>
 
 <p align="center">
   <b>All-in-one GIS platform for maps and geodata</b><br>
-
 </p>
 
 <p align="center">
@@ -14,19 +13,20 @@
   <a href="https://docs.nextgis.com/"><img src="https://img.shields.io/badge/Documentation-176FC1?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Documentation"/></a>
 </p>
 
-<br><br>
-
-<div align="center">
-  <img 
-    src="https://github.com/cybergeo82/test/raw/main/banner.svg" 
-    alt="NextGIS Banner" 
-    width="100%" 
-    style="max-width: 1280px;"
-  >
-</div>
-
 <br>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nextgis/.github/main/profile/assets/dark-banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nextgis/.github/main/profile/assets/light-banner.png">
+    <img
+      src="https://raw.githubusercontent.com/nextgis/.github/main/profile/assets/light-banner.png" 
+      alt="NextGIS Banner" 
+      width="100%" 
+      style="max-width: 1280px;"
+      >
+</picture>
+
+<br><br>
 
 ## What We Do
 
@@ -42,7 +42,6 @@
 
 <br>
 
-
 ## Main open source projects
 
 |Project                                                        |Description                                                     |Language/License   |Popularity|
@@ -57,7 +56,6 @@
 
 <br>
 
-
 ## Contact us
 
 📧 [**info@nextgis.com**](mailto:info@nextgis.com)  
@@ -65,7 +63,6 @@
 💬 **Forum:** [community.nextgis.com](https://community.nextgis.com/)
 
 <br><br>
-
 
 <p align="center">
   <a href="https://nextgis.com">nextgis.com</a>
